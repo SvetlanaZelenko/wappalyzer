@@ -1,0 +1,17 @@
+{
+  "name": "wappalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy.open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
